@@ -1,6 +1,5 @@
 ## Hello :wave:  
-I'm <a href="https://github.com/AshforthM">@AshforthM</a>, Software Development student looking for new projects  
-Currently working on Flutter and React applications. Always interested in learning new languages and frameworks!  
+I'm <a href="https://github.com/AshforthM">@AshforthM</a>, Software Developer primarily working on cross-platform mobile applications using Flutter. Experienced with .NET/C# and occasional user of JS. Always interested in learning something new!
 
 ### Development Experience with:
 
